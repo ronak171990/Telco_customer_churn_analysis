@@ -38,6 +38,7 @@ Customer_Churn_Analysis/
 - Python (Pandas, Seaborn, Matplotlib)
 - Jupyter Notebook
 - Dataset: [Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- 📁 GitHub: [ronak171990/Telco_customer_churn_analysis](https://github.com/ronak171990/Telco_customer_churn_analysis)
 
 ---
 
